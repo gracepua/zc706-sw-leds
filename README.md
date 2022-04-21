@@ -29,7 +29,7 @@ This project allows the user to turn the on-board LEDs according to a button pre
 ## Building the project
 
 1. Pull the project from GitHub.
-2. Open Vivado and create a project (preferrable to do this in the hardware folder).
+2. Open Vivado and create a project.
 3. Add `buttonled.vhd` to `Design Sources` in the `Sources` window.
 4. Add `zc706_sw_led.xdc` to `Constraints` in the `Sources` window.
 5. Open the Elaborated Design under `Project Manager --> RTL Analysis` to view the visual connections between the LEDs and the buttons.
@@ -47,4 +47,4 @@ This project allows the user to turn the on-board LEDs according to a button pre
 
 ## Additional Sources
 
-___FOLLOWED THIS TUTORIAL__[Light Up ZC706 LEDs Using Push Buttons with VHDL](https://www.centennialsoftwaresolutions.com/post/light-up-zc706-leds-using-push-buttons-with-vhdl)
+___FOLLOWED THIS TUTORIAL__ [Light Up ZC706 LEDs Using Push Buttons with VHDL](https://www.centennialsoftwaresolutions.com/post/light-up-zc706-leds-using-push-buttons-with-vhdl)
